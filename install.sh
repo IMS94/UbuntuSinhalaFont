@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install Noto Fonts
-sudo apt install fonts-noto
+sudo apt install -y fonts-noto
 
 # Download font config
 if [ ! -f 65-nonlatin.conf ]; then
