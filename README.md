@@ -8,7 +8,7 @@ wget https://raw.githubusercontent.com/IMS94/UbuntuSinhalaFont/master/install.sh
 ```
 Then, run:
 ```
-chmod +x install.sh hello
+chmod +x install.sh 
 ```
 
 Finally, run the instalation script
