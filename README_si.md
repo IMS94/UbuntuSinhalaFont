@@ -16,9 +16,9 @@ chmod +x install.sh
 ./install.sh
 ```
 
-## Before
+## පෙර 
 ![enter image description here](https://raw.githubusercontent.com/pasan93/UbuntuSinhalaFont/master/before.jpg)
 
-## After
+## 
 ![enter image description here](https://raw.githubusercontent.com/pasan93/UbuntuSinhalaFont/master/after.jpg)
 
