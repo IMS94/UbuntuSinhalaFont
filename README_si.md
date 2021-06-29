@@ -1,7 +1,7 @@
 
 # Ubuntu සඳහා පැහැදිලි සිංහල අකුරු එක් කිරීම
 
-මෙම bash script run කළ පසු  Ubuntu default font එක  Noto font family එකට වෙනස් කර ගත හැක. 
+මෙම bash script එක run කළ පසු  Ubuntu default font එක  Noto font family එකට වෙනස් කර ගත හැක. 
 
 ```
 wget https://raw.githubusercontent.com/IMS94/UbuntuSinhalaFont/master/install.sh
