@@ -8,7 +8,7 @@ wget https://raw.githubusercontent.com/IMS94/UbuntuSinhalaFont/master/install.sh
 ```
 ඊළඟට මේ command එක run කරන්න :
 ```
-chmod +x install.sh hello
+chmod +x install.sh 
 ```
 
 අවසාන වශයෙන් , මේම command එක run කර, script එක install කරන්න:
