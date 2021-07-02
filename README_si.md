@@ -1,7 +1,7 @@
 
 # Ubuntu සඳහා පැහැදිලි සිංහල අකුරු එක් කිරීම
 
-**මෙය Ubuntu 20.04LTE + සඳහා සකසා ඇත.**  
+**මෙය Ubuntu 20.04 LTS+ සඳහා සකසා ඇත.**  
 
 මෙම bash script එක run කළ පසු  Ubuntu default font එක  Noto font family එකට වෙනස් කර ගත හැක. 
 
