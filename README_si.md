@@ -13,7 +13,7 @@ wget https://raw.githubusercontent.com/IMS94/UbuntuSinhalaFont/master/install.sh
 chmod +x install.sh 
 ```
 
-අවසාන වශයෙන් , මේම command එක run කර, script එක install කරන්න:
+අවසාන වශයෙන් , මේ command එක run කර, script එක install කරන්න:
 ```
 ./install.sh
 ```
