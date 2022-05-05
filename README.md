@@ -3,7 +3,7 @@
 # Ubuntu Sinhala Font Config Tool
 **Caution: This script is designed for Ubuntu 20.04 LTS+** 
 
-**UPDATE: Tested on Ubuntu and Ubuntu-based Pop!_OS 21.04, 21.10, 22.04***
+**UPDATE: Tested on Ubuntu and Ubuntu-based Pop!_OS 21.04, 21.10, 22.04**
 
 [සිංහල documentation එක මෙතනින් බලන්න.](https://github.com/IMS94/UbuntuSinhalaFont/blob/master/README_si.md) 
 
